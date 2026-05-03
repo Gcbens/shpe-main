@@ -1,4 +1,4 @@
-# shpe-main
+# [shpe-main](https://gcbens.github.io/shpe-main/)
 ## SHPE Website
 ### Description / Abstract
 As part of our Software Development II course with Dr. Anca, our team has been developing SHPE Georgia, a modern web application designed to support the local chapter of the Society of Hispanic Professional Engineers (SHPE) in Georgia. The goal of this project is to develop a web app that lets SHPE Georgia distribute information online and be able to automate their activities. So far, our team has created a functional login/signup/logout function, which will allow members and sponsors to log into using their unique member ids. We have a navigation system that enables users to navigate from page to page without any issues. We have essentially finished most of the groundwork for future teams to build upon this. With this in mind, the scalable of our structure allows future extensions such as admin dashboards, resource uploads, and automated event reminders. The impact of this project lies in its ability to streamline chapter operations, strengthen community connection, and support the academic and professional growth of SHPE members across Georgia.
