@@ -98,6 +98,7 @@ Create a `.env` file in the `my-mern-app/backend` directory with the following v
 ```
 PORT=5000
 MONGO_URI=
+JWT_SECRET=
 JWT_EXPIRE=
 NODE_ENV=development
 ```
